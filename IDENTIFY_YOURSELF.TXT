@@ -1,2 +1,2 @@
-Name:
-Student Number
+Name: Richard Duong
+Student Number: 041042896
